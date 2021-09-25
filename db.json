@@ -1,0 +1,29 @@
+{
+    "articles": [
+        {"id" : 1, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art1.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 2, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art2.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 3, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art3.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 4, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art1.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 5, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art2.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 6, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art3.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 7, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art1.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 8, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art2.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 9, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art3.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 10, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art1.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 11, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art2.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 12, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art3.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 13, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art1.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 14, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art2.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 15, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art3.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 16, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art1.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""},
+        {"id" : 17, "title": "Keeping the dream alive by traveling the world.", "price": 49, "image": "art2.png", "publish_ date" : "2021-04-21", "content" : "", "resume": "", "photo_reference": ""}
+    ],
+    "users" : [
+        {"id": 1, "email" : "test@test.com", "name": "test user", "password": "5f4dcc3b5aa765d61d8327deb882cf99"}
+    ],
+    "favorites" : [
+        {"id": 1, "userId": 1, "postId": 1},
+        {"id": 1, "userId": 1, "postId": 2},
+        {"id": 1, "userId": 1, "postId": 10}
+    ]
+}
